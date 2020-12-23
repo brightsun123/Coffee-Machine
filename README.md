@@ -5,7 +5,7 @@ Python program that performs a simulation of a coffee machine.
 - Object Oriented Programming
 ```
 # General Information
-To learn more about this project, please visit the [Hyperskill Website](https://hyperskill.org/projects/68?track=2)
+To learn more about this project, please visit the [Hyperskill Website](https://hyperskill.org/projects/68?track=2).
 This directory shows the final implementation of the coffee machine simulator
 ```
 coffeeMachine.py
