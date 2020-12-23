@@ -6,18 +6,13 @@ Python program that performs a simulation of a coffee machine.
 ```
 # General Information
 To learn more about this project, please visit the [Hyperskill Website](https://hyperskill.org/projects/68?track=2)
-This Directory has 6 files showing the step-by-step code implementation.
+This directory shows the final implementation of the coffee machine simulator
 ```
-stage_one.py
-stage_two.py
-stage_three.py
-stage_four.py
-stage_five.py
-stage_six.py
+coffeeMachine.py
 ```
 # Running the Porgram
 ```
-1) Download the files
+1) Download the file
 2) Open the project in your choice of IDE 
 3) Run the project
 ```
